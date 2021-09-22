@@ -1,0 +1,147 @@
+.header1{
+	font-family: arial;
+	text-align: center;
+}
+.header2{
+	font-family: arial;
+	text-align: center;
+}
+header{
+	
+	color: ghostwhite;
+	font-weight: bold;
+}
+.menu{
+	font-family: arial;
+	font-size: 15px;
+	color: white;
+	font-weight: bold;
+	padding-top: 15px;
+}
+.login{
+	text-align: center;
+	color: white;
+	font-family: arial;
+}
+
+.search{
+	text-align: right;
+	color: white;
+	font-family: arial;
+	padding-top: 15px;
+}
+.form{
+	text-align: center;
+	color: white;
+	font-family: arial;
+}
+.daftar{
+	text-align: center;
+	color: white;
+	font-family: arial;
+  /*border: 3px solid white ;*/
+  margin: 5px 100px 5px 100px ;
+  border-radius: 10px;
+  
+
+
+
+}
+a:hover {
+  background-color: lightseagreen;
+}
+
+
+
+body{
+  /*background-image: url("background.jpg");*/
+  background-color: #778899;
+}
+.footer{
+  color: white;
+  font-family: arial;
+  text-align: center;
+  padding-top: 20px;
+}
+
+
+.animasi {
+  width: 1200px;
+  height: 100px;
+  background-color: transparent;
+  position: relative;
+  animation-name: example;
+  animation-duration: 4s;
+  color: white;
+  font-size: 70px;
+  text-align: center;
+  padding-left: 5px;
+}
+
+@keyframes example {
+  0%   {background-color:transparent; left:0px; top:0px;}
+  25%  {background-color:transparent; left:200px; top:0px;}
+  50%  {background-color:transparent; left:200px; top:200px;}
+  75%  {background-color:transparent; left:0px; top:200px;}
+  100% {background-color:transparent; left:0px; top:0px;}
+}
+.form{
+  padding: 5px 5px 5px 5px;
+}
+.nama {
+  padding-bottom: 5px;
+  border: 3px solid; white;
+  border-radius: 10px;
+  padding-top: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  
+ margin: 5px 500px 5px 500px;
+
+
+ 
+  
+  
+}
+.email{
+  padding-bottom: 5px;
+  border: 3px solid; white;
+  border-radius: 10px;
+  padding-top: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+ margin: 5px 500px 5px 500px;
+  
+}
+.password{
+  padding-bottom: 5px;
+  border: 3px solid; white;
+  border-radius: 10px;
+  padding-top: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+ margin: 5px 500px 5px 500px;
+
+  
+}
+.submit{
+  padding-bottom: 10px;
+  border: 3px solid; white;
+  border-radius: 10px;
+  padding-top: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin: 5px 550px 5px 550px;
+
+ 
+}
+.search{
+  padding-bottom: 5px;
+  border: 3px solid; white;
+  border-radius: 10px;
+  padding-top: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  
+
+}
